@@ -1,7 +1,7 @@
 # features of the task manager app
 
-sprint 1: Core Task Management
-    Features:
+# sprint 1: Core Task Management
+    # Features:
         User Authentication & Authorization
             Sign up, sign in, and password reset functionality.
             Secure session management with JWT or cookies.
@@ -15,8 +15,8 @@ sprint 1: Core Task Management
         Due Date Alerts
             Notify users when tasks are nearing their due dates or are overdue (basic notifications via browser alerts).
 
-Sprint 2: Enhanced Collaboration & organization
-    Features:
+# Sprint 2: Enhanced Collaboration & organization
+    # Features:
         Collaboration Features
             Assign tasks to other users within the system.
             Allow comments and notes on tasks for better communication.
@@ -28,8 +28,8 @@ Sprint 2: Enhanced Collaboration & organization
             Role-Based Access Control (RBAC)
         Define roles like Admin, Team Lead, and Member with different permissions.
 
-Sprint 3: Advanced Analytics & Reporting
-    Features:
+# Sprint 3: Advanced Analytics & Reporting
+    # Features:
         Task Statistics & Analytics
             Display metrics like the number of tasks completed, pending, or overdue.
             Show productivity trends over time (e.g., weekly or monthly reports).
@@ -41,8 +41,8 @@ Sprint 3: Advanced Analytics & Reporting
         Custom Dashboards
             Allow users to customize their dashboards with widgets for quick access to important data.
 
-Sprint 4: Scalability & Integration
-    Features:
+# Sprint 4: Scalability & Integration
+    # Features:
         Third-Party Integrations
             Integrate with tools like Google Calendar, Slack, Trello, or email services for reminders and notifications.
             Sync tasks with external calendars.
